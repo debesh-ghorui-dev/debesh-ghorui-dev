@@ -98,14 +98,6 @@ const debesh = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=debesh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -120,11 +112,11 @@ const debesh = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
   
   ### 💭 Random Dev Quote
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
   **Thanks for stopping by! Let's build something amazing together** 🚀
-  
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
